@@ -451,6 +451,5 @@ Yet the wheel of civilization continues turning.
 
 And so, at last, the Fearful Rapids no longer frighten me.
 
-Suggested Image Caption (≤140 characters)
 
 Fang Yizhi aboard a riverboat in his final years, reflecting on dynastic collapse, factional conflict, and what truly endures beyond history.
