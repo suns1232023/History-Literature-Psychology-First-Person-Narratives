@@ -1,78 +1,129 @@
 # Voices from History
 
-### First-Person Narratives from History, Literature, and Myth
+### First-Person Narratives Across History, Literature, Myth, and Human Psychology
 
-> **What if the people who shaped history had been given the chance to tell their own stories?**
+> **What if the people who shaped history could tell us what the world looked like from inside their minds?**
 
-**Voices from History** is a collection of first-person narratives that reconstruct the inner worlds of historical figures, literary characters, mythological figures, and ordinary people caught in extraordinary circumstances.
+**Voices from History** is an interdisciplinary collection of first-person narratives that reconstruct the possible inner worlds of historical figures, literary characters, mythological figures, and ordinary people caught in extraordinary circumstances.
 
-Instead of looking at the past only through dates, events, biographies, and official historical records, this project asks a different question:
+The project does not attempt to rewrite history.
 
-> **What might history look like if we could hear it from inside the mind of the person who lived it?**
+It asks a different question:
 
-The narratives combine **historical context, literary imagination, psychology, cognitive science, decision-making theory, and the study of human behavior**.
+> **What might it have felt like to live through the events that history records from the outside?**
 
-They are not intended to replace historical scholarship.
+History gives us events.
 
-They are an attempt to explore the psychological space between **what happened** and **what it may have felt like to live through it**.
+Literature gives us voices.
+
+Psychology gives us frameworks for understanding behavior.
+
+**Narrative gives us a way to bring these perspectives into the same space.**
+
+The resulting works occupy the boundary between **historical evidence, literary imagination, psychological interpretation, and philosophical reflection**.
 
 ---
 
-## The Central Idea
+# 1. The Central Idea
 
-History usually records what people **did**.
+Historical records usually tell us what people **did**.
 
-Literature often imagines what people **might have felt**.
+They rarely tell us what the world looked like **from inside their decisions**.
 
-Psychology asks **why people behave the way they do**.
+A ruler may be remembered as a tyrant.
 
-This project brings these three perspectives together.
+A politician as a traitor.
 
-A historical figure may be remembered as:
+A warrior as a hero.
 
-* a traitor
-* a hero
-* a tyrant
-* a victim
-* a fool
-* a genius
-* a villain
-* a saint
+A victim as a martyr.
 
-But a person rarely experiences themselves through such simple categories.
+A lover as obsessive.
 
-Behind every decision there may have been:
+A reformer as a visionary.
+
+But human beings rarely experience themselves through such simple categories.
+
+Behind a historical decision may have been:
 
 * fear
 * attachment
 * ambition
 * humiliation
 * loyalty
-* cognitive dissonance
-* self-deception
-* trauma
+* uncertainty
 * identity conflict
 * status anxiety
 * loss aversion
+* self-deception
 * moral rationalization
 * the need to belong
 * the desire to survive
+* the inability to imagine an alternative
 
-The purpose of these narratives is to make those hidden dimensions visible.
+The purpose of **Voices from History** is to make these hidden dimensions visible.
+
+Not to prove what a person *actually thought*.
+
+But to explore what kinds of psychological and human processes might help us understand what they actually *did*.
 
 ---
 
-# Narrative Method
+# 2. What This Project Is — and Is Not
 
-Each work generally combines four layers.
+## This project is
 
-### 1. Historical or Literary Context
+* historical and literary reconstruction
+* first-person narrative
+* psychological interpretation
+* perspective-taking
+* interdisciplinary reflection
+* thought experiments grounded in historical or literary context
+* an exploration of human decision-making under uncertainty
 
-The narrative begins with events, characters, settings, or conflicts that are documented in historical sources or established literary works.
+## This project is not
 
-### 2. First-Person Reconstruction
+* newly discovered historical evidence
+* an alternative historical record
+* a clinical psychological assessment
+* a retrospective psychiatric diagnosis
+* a claim to know the private thoughts of historical figures
+* a replacement for professional historical scholarship
+* a claim that every narrative interpretation is historically true
 
-The story is written from the perspective of the character.
+The distinction is essential.
+
+> **Historical events may be documented.
+> Psychological explanations are interpretations.
+> First-person voices are literary reconstructions.**
+
+---
+
+# 3. The Narrative Method
+
+Most works in this repository combine four layers.
+
+## Layer I — Historical or Literary Record
+
+The starting point is an identifiable historical event, literary work, character, relationship, political situation, or cultural context.
+
+Whenever possible, historical claims are connected to:
+
+* primary sources
+* classical texts
+* contemporary records
+* biographies
+* archaeological evidence
+* established historical scholarship
+* original literary works
+
+The purpose is to establish the **external world** in which the narrative takes place.
+
+---
+
+## Layer II — First-Person Reconstruction
+
+The narrative then moves inside the character.
 
 Instead of:
 
@@ -80,82 +131,116 @@ Instead of:
 
 the narrative asks:
 
-> "What did Sima Yi tell himself when he made that decision?"
+> "What might Sima Yi have told himself when he decided that deception was necessary?"
 
-Instead of describing Hua Zheng from the outside, we ask what her attachment, expectations, disappointment, and eventual acceptance might have looked like from within.
+Instead of simply describing Hua Zheng's attachment, we ask:
 
-### 3. Psychological Interpretation
+> "What might love, rejection, identity, and loss have looked like from inside her experience?"
 
-The narrative may examine concepts such as:
+The first-person voice is deliberately intimate.
 
-* attachment and abandonment
-* cognitive dissonance
-* identity formation
-* trauma and adaptation
-* status competition
-* loss aversion
+It may take the form of:
+
+* diary entries
+* internal monologue
+* remembered conversations
+* letters
+* reflections
+* imagined memories
+* reconstructed scenes
+
+These elements are **literary devices**, not documentary evidence.
+
+---
+
+## Layer III — Psychological Interpretation
+
+The narrative may draw upon concepts from:
+
+* cognitive psychology
+* social psychology
+* behavioral economics
+* decision theory
+* attachment theory
+* social identity theory
+* information asymmetry
+* strategic interaction
+* uncertainty and risk perception
 * motivated reasoning
-* moral disengagement
-* social conformity
-* power psychology
-* asymmetric information
-* strategic decision-making
-* self-justification
+* cognitive dissonance
+* loss aversion
+* sunk-cost effects
+* conformity
+* status competition
+* moral rationalization
 
-### 4. Historical Reflection
+These frameworks are used to generate questions and interpretations.
 
-The final layer returns to the historical or literary record.
-
-The purpose is not to declare that the reconstructed inner monologue is historically true.
-
-Instead, it asks:
-
-> **Does this psychological reconstruction provide a useful way to think about the choices that actually occurred?**
+They are **not used to diagnose people who lived centuries ago**.
 
 ---
 
-# Important Distinction: History vs. Reconstruction
+## Layer IV — Historical Reflection
 
-This project deliberately maintains a boundary between **evidence** and **imagination**.
+The narrative ultimately returns to the record.
 
-### Historical facts
+The question is not:
 
-Claims about dates, events, relationships, political circumstances, and documented actions should be grounded in available historical or literary sources whenever possible.
+> "Was this imagined inner monologue literally true?"
 
-### Psychological interpretation
+The more useful question is:
 
-Psychological explanations are interpretations rather than direct observations of the person's mind.
+> **"Does this reconstruction provide a coherent and intellectually useful way of understanding the choices that actually occurred?"**
 
-### First-person narration
+A successful narrative therefore does not end with certainty.
 
-The diary, monologue, memories, conversations, and internal thoughts are literary reconstructions.
-
-They should **not** be interpreted as newly discovered historical documents.
-
-In other words:
-
-> **The events may be historical.
-> The psychological questions are analytical.
-> The first-person voice is reconstructed.**
-
-This distinction is fundamental to the project.
+It ends with a better question.
 
 ---
 
-# Selected Narratives
+# 4. A Boundary Between Evidence and Imagination
+
+One of the project's central methodological commitments is maintaining a visible boundary between different kinds of statements.
+
+| Layer                     | Question                                          | Status                  |
+| ------------------------- | ------------------------------------------------- | ----------------------- |
+| Historical evidence       | What do the sources tell us?                      | Evidence                |
+| Historical interpretation | How might historians explain it?                  | Interpretation          |
+| Psychological framework   | What mechanisms might be relevant?                | Analytical framework    |
+| First-person narrative    | What might it have felt like?                     | Literary reconstruction |
+| Philosophical reflection  | What does the story suggest about human behavior? | Interpretation          |
+
+This separation allows the project to use imagination without confusing imagination with evidence.
+
+> **Reconstruction is not evidence.
+> Empathy is not endorsement.
+> Explanation is not absolution.**
+
+Understanding why someone acted does not mean that the action was justified.
+
+Understanding a victim does not require idealizing the victim.
+
+Understanding a perpetrator does not turn the perpetrator into a hero.
+
+The objective is to make human behavior **more intelligible without making it morally simpler**.
+
+---
+
+# 5. Selected Narratives
 
 ## Historical Figures
 
 ### Sima Yi — *The Oath at the Luo River*
 
-A psychological reconstruction of Sima Yi's strategic decision-making after the Gaoping Tombs Coup.
+A psychological reconstruction of Sima Yi's strategic decision-making during the political crisis surrounding the Gaoping Tombs Coup.
 
-Themes:
+**Themes**
 
 * strategic deception
 * political survival
 * trust and betrayal
 * commitment problems
+* information asymmetry
 * moral rationalization
 * power transitions
 
@@ -165,7 +250,7 @@ Themes:
 
 A first-person reconstruction of the ruler who defeated Yue but ultimately lost his kingdom.
 
-Themes:
+**Themes**
 
 * revenge
 * status
@@ -173,32 +258,42 @@ Themes:
 * sunk-cost thinking
 * strategic blindness
 * the psychology of victory
+* political attachment
 
 ---
 
 ### Wu Zixu — *The Eyes at Gusu*
 
-A reflection on loyalty, revenge, political identity, and the psychological consequences of prolonged historical trauma.
+A reflection on loyalty, revenge, political identity, memory, and the psychological consequences of prolonged historical trauma.
 
 ---
 
 ### Bo Pi — *The Ledger of Blood*
 
-A reconstruction of the political psychology surrounding loyalty, self-interest, information asymmetry, and survival during the Wu–Yue conflict.
+A reconstruction of political psychology during the Wu–Yue conflict.
+
+**Themes**
+
+* self-interest
+* loyalty
+* survival
+* information asymmetry
+* political incentives
+* moral compromise
 
 ---
 
 ### Wei Zhongxian — *The Last Night*
 
-A first-person exploration of political power, institutional dependence, fear, and the psychology of an individual who becomes inseparable from the system that created him.
+A first-person exploration of political power, institutional dependence, fear, and the psychology of an individual whose identity becomes inseparable from the political system that created him.
 
 ---
 
-### Emperor Chongzhen's Empress — *A Night in the Forbidden City*
+### Empress Zhou — *A Night in the Forbidden City*
 
-A psychological reconstruction of the final years of the Ming dynasty from inside the imperial household.
+A reconstruction of the final years of the Ming dynasty from inside the imperial household.
 
-Themes:
+**Themes**
 
 * political helplessness
 * uncertainty
@@ -211,47 +306,95 @@ Themes:
 
 ### Fang Xiaoru — *The Last Manuscript*
 
-A reconstruction of the psychological conflict between moral principle, identity, loyalty, and survival.
+A reconstruction of the psychological conflict between moral principle, political loyalty, identity, and survival.
 
 ---
 
-## Literary Characters
+### Fu Yue — *From Mud to the Court: An Investment in Value and a Revolution in Cognition*
 
-### Hua Zheng — *A Song Across the Steppe*
+A literary reconstruction of Fu Yue's rise from a laborer at Fu Yan to chief minister of King Wu Ding.
+
+The narrative uses the legendary career of Fu Yue as a framework for exploring:
+
+* observation and experimentation
+* value discovery
+* institutional reform
+* risk management
+* trust and monetary systems
+* systems thinking
+* adaptive governance
+* decision-making under uncertainty
+* the compounding of knowledge
+
+The central metaphor is **cognitive compounding**:
+
+> Wealth can compound through capital.
+> Institutions can compound through trust.
+> Human capability can compound through knowledge.
+
+---
+
+### Empress Dowager Longyu — *The Final Diary*
+
+A fictional first-person reconstruction of the final years of the Qing dynasty, focusing on Empress Dowager Longyu, Emperor Guangxu, and the abdication of Puyi.
+
+The narrative explores:
+
+* political powerlessness
+* institutional collapse
+* memory
+* responsibility
+* inherited identity
+* historical compromise
+* sacrifice
+* moral ambiguity
+* the transmission of ideas between generations
+
+At its center is a question:
+
+> **Can a person inherit another person's unfinished ideas without ever having shared their life?**
+
+---
+
+# 6. Literary Characters
+
+## Hua Zheng — *A Song Across the Steppe*
 
 A psychological reconstruction of Hua Zheng's emotional world in Jin Yong's *The Legend of the Condor Heroes*.
 
-Themes:
+**Themes**
 
 * attachment
 * unrequited love
 * identity
 * emotional persistence
+* rejection
 * letting go
 * self-worth
 
 ---
 
-### Xue Baochai — *The Night in Hengwuyuan*
+## Xue Baochai — *The Night in Hengwuyuan*
 
-A first-person reflection on Baochai's identity and the controversial continuation of *Dream of the Red Chamber*.
+A first-person reflection on Baochai's identity, social expectations, marriage, and the controversial continuation and reinterpretation of *Dream of the Red Chamber*.
 
-The narrative explores:
+**Themes**
 
 * social expectations
 * marriage
 * identity
 * emotional suppression
 * narrative reinterpretation
-* the difference between literary character and cultural stereotype
+* cultural stereotypes
+* the difference between a literary character and the cultural image built around her
 
 ---
 
-### Li Mochou — *The Cliff of Broken Hearts*
+## Li Mochou — *The Cliff of Broken Hearts*
 
-A psychological reconstruction using concepts from trauma psychology and cognitive-behavioral theory.
+A psychological reconstruction of Li Mochou's emotional trajectory.
 
-Themes:
+**Themes**
 
 * obsessive attachment
 * abandonment
@@ -260,65 +403,67 @@ Themes:
 * revenge
 * self-reinforcing beliefs
 
+Psychological terminology is used here as an interpretive framework rather than a clinical diagnosis.
+
 ---
 
-### Diaochan — *The Pawn in the Game*
+## Diaochan — *The Pawn in the Game*
 
 A reconstruction of the psychological experience of a woman positioned between political power, strategic manipulation, and personal agency.
 
 ---
 
-### Mu Nianci — *The Name I Was Given*
+## Mu Nianci — *The Name I Was Given*
 
 An exploration of identity, motherhood, attachment, memory, and the psychological consequences of being defined by other people's decisions.
 
 ---
 
-### Yinglian / Xiangling — *A Person Abandoned by Information*
+## Yinglian / Xiangling — *A Person Abandoned by Information*
 
 An exploration of information asymmetry, social vulnerability, identity loss, and the relationship between knowledge and survival in *Dream of the Red Chamber*.
 
 ---
 
-### Jiaoxing — *The Maid Who Changed Her Fortune*
+## Jiaoxing — *The Maid Who Changed Her Fortune*
 
 A narrative examining opportunity, social mobility, asymmetric information, and the psychology of value.
 
 ---
 
-## Mythological and Legendary Figures
+# 7. Mythological and Legendary Figures
 
 ### Sun Wukong — *Five Hundred Years Under the Mountain*
 
 A psychological reflection on rebellion, identity, humiliation, confinement, and transformation.
 
-> What happens to an individual who believes himself completely free when freedom is suddenly taken away?
+> **What happens to an individual who believes himself completely free when freedom is suddenly taken away?**
 
 ---
 
 ### The Red Boy — *Memories of the Flaming Mountain*
 
-A reflection on family, separation, guilt, and the psychological transformation of a mythological character after defeat.
+A reflection on family, separation, guilt, defeat, and psychological transformation.
 
 ---
 
 ### The White Dragon Horse — *After the Journey to the West*
 
-A collection of reflections on the forgotten lives of the figures encountered after the legendary pilgrimage.
+A collection of reflections on the forgotten lives of the figures encountered during and after the legendary pilgrimage.
 
 ---
 
 ### The Dragon of the Mirage — *The Last Dream*
 
-A mythological thought experiment concerning mortality, transformation, memory, and the boundary between human perception and imagination.
+A mythological thought experiment concerning mortality, transformation, memory, perception, and the boundary between imagination and reality.
 
 ---
 
-# A Psychological Lens
+# 8. Psychological and Analytical Frameworks
 
-The project draws inspiration from several fields.
+The project draws selectively from several intellectual traditions.
 
-### Cognitive Psychology
+## Cognitive Psychology
 
 * cognitive dissonance
 * motivated reasoning
@@ -327,7 +472,7 @@ The project draws inspiration from several fields.
 * self-serving interpretation
 * decision-making under uncertainty
 
-### Social Psychology
+## Social Psychology
 
 * conformity
 * social identity
@@ -336,7 +481,7 @@ The project draws inspiration from several fields.
 * group belonging
 * reputation management
 
-### Behavioral Economics
+## Behavioral Economics
 
 * loss aversion
 * sunk-cost effects
@@ -345,37 +490,57 @@ The project draws inspiration from several fields.
 * strategic behavior
 * risk perception
 
-### Neuroscience-Informed Interpretation
+## Decision and Systems Thinking
 
-Where appropriate, narratives may use concepts from:
+* feedback loops
+* path dependence
+* incentives
+* institutional resilience
+* adaptive systems
+* unintended consequences
+* local versus systemic optimization
 
-* reward and threat processing
+## Neuroscience-Informed Perspectives
+
+Where appropriate, narratives may refer to broad concepts such as:
+
+* threat and reward processing
 * attachment
 * stress responses
 * habit formation
 * emotional regulation
 
-These concepts are used as **interpretive frameworks**, not as retrospective clinical diagnoses.
+These concepts are used cautiously.
+
+The project does **not** attempt to retrospectively diagnose historical or fictional individuals.
 
 ---
 
-# A Recurring Question
+# 9. Recurring Questions
 
-Across very different historical periods and cultures, the same psychological problems repeatedly appear.
+Across different periods, cultures, and fictional worlds, remarkably similar psychological problems appear.
 
-A king may fear losing power.
+Why do people remain inside systems they know are failing?
 
-A warrior may fear humiliation.
+Why do intelligent people rationalize decisions they once opposed?
 
-A lover may confuse attachment with destiny.
+Why does power change the way people perceive reality?
 
-A politician may mistake survival for morality.
+Why do people defend decisions after evidence begins to contradict them?
 
-A victim may eventually reproduce the behavior of those who hurt them.
+Why does humiliation sometimes become more powerful than material interest?
 
-A person may defend a decision long after they have realized it was wrong.
+Why do people confuse attachment with destiny?
 
-A character may spend an entire lifetime protecting an identity that was constructed by someone else.
+Why do institutions become dependent on individuals?
+
+Why do people sacrifice themselves for identities they did not choose?
+
+Why does uncertainty make people prefer familiar failure to unfamiliar possibility?
+
+Why can a single piece of information transform the perceived value of an entire situation?
+
+Why do some ideas survive their creators?
 
 The names change.
 
@@ -383,17 +548,17 @@ The technologies change.
 
 The political systems change.
 
-But human psychology often changes much more slowly.
+But many underlying features of human decision-making appear remarkably persistent.
 
 ---
 
-# Why First-Person Narration?
+# 10. Why First-Person Narration?
 
-Traditional historical writing tends to place the reader outside the subject.
+Traditional historical writing tends to place the reader **outside** the subject.
 
 First-person narration reverses the direction.
 
-Instead of asking:
+Instead of asking only:
 
 > **What did this person do?**
 
@@ -401,130 +566,258 @@ we ask:
 
 > **What did the world look like from inside this person's decision-making system?**
 
-This does not make the reconstruction more historically certain.
+This does not make the historical reconstruction more certain.
 
-It makes the psychological question more visible.
+It makes the psychological problem more visible.
 
-The reader is invited to temporarily inhabit a different perspective and then step back out to examine it critically.
+The reader is invited to temporarily inhabit another perspective — and then step outside it again.
 
----
+That second step is important.
 
-# Methodological Principle
+The goal is not immersion alone.
 
-The project follows a simple principle:
-
-> **Empathy is not endorsement.
-> Reconstruction is not evidence.
-> Psychological explanation is not moral absolution.**
-
-Understanding why a person made a decision does not mean that the decision was justified.
-
-Understanding a villain does not make the villain a hero.
-
-Understanding a victim does not require idealizing the victim.
-
-The objective is to make human behavior **more intelligible without making it morally simpler**.
+It is **critical re-examination after immersion**.
 
 ---
 
-# Sources and Research Notes
+# 11. The Epistemic Rule
 
-Where applicable, individual narratives should identify:
+The project follows a simple rule:
+
+> **Evidence first.
+> Interpretation second.
+> Imagination clearly labeled.**
+
+This means that a narrative may deliberately contain invented:
+
+* dialogue
+* memories
+* thoughts
+* diary entries
+* letters
+* private conversations
+* emotional reactions
+
+But these should remain distinguishable from historical quotations and documented facts.
+
+When historical quotations are used, they should be identified as quotations and sourced appropriately.
+
+When dialogue is invented, it should remain recognizable as reconstruction.
+
+This distinction protects both **historical integrity** and **literary freedom**.
+
+---
+
+# 12. From History to Human Behavior
+
+The deeper purpose of the project is not simply to retell history.
+
+Historical narratives provide unusually rich natural experiments in human behavior.
+
+A political crisis can reveal:
+
+* strategic behavior
+* information asymmetry
+* signaling
+* coalition formation
+* risk perception
+
+A failed relationship can reveal:
+
+* attachment
+* identity
+* self-deception
+* loss aversion
+
+A collapsing dynasty can reveal:
+
+* institutional fragility
+* path dependence
+* collective denial
+* coordination failure
+
+A successful reform can reveal:
+
+* trust
+* incentives
+* adaptation
+* feedback
+* institutional learning
+
+A myth can reveal something different:
+
+* archetypal conflict
+* identity
+* fear
+* desire
+* transformation
+
+The historical setting changes.
+
+The underlying questions remain.
+
+---
+
+# 13. A Broader Research Question
+
+One recurring hypothesis behind the project is:
+
+> **Human beings do not merely respond to reality. They respond to their internal models of reality.**
+
+Two people can experience the same event and construct entirely different worlds from it.
+
+A ruler may see rebellion.
+
+A subject may see liberation.
+
+A lover may see destiny.
+
+The other person may see attachment.
+
+A politician may see betrayal.
+
+Another may see self-preservation.
+
+A dynasty may see temporary disorder.
+
+Its citizens may already see the end.
+
+The difference between these interpretations can determine what happens next.
+
+In this sense, the project is ultimately interested in the relationship between:
+
+**information → perception → interpretation → decision → consequence**
+
+---
+
+# 14. Sources and Research Notes
+
+Where applicable, each narrative should document its intellectual foundations.
+
+These may include:
 
 * primary historical sources
 * classical texts
-* literary originals
+* archaeological evidence
+* original literary works
 * biographies
 * contemporary records
-* established scholarly interpretations
-* psychological theories used for interpretation
+* modern historical scholarship
+* psychological theories
+* behavioral research
+* philosophical works
 
-Historical claims and imaginative reconstruction should remain distinguishable.
-
-Future versions of the project may include separate sections for:
-
-`Sources`
-
-`Historical Evidence`
-
-`Psychological Framework`
-
-`Literary Reconstruction`
-
-`Interpretive Limitations`
-
----
-
-# Content Categories
-
-The repository will gradually develop several interconnected collections:
+Future versions of the repository may separate these materials into:
 
 ```text
-History
-├── Ancient China
-├── Imperial China
-├── Republican China
-└── Other historical periods
-
-Literature
-├── Dream of the Red Chamber
-├── Jin Yong
-├── Classical Chinese literature
-└── World literature
-
-Myth & Legend
-├── Chinese mythology
-├── Journey to the West
-└── Cross-cultural legends
-
-Psychology
-├── Attachment
-├── Identity
-├── Power
-├── Trauma
-├── Decision-making
-└── Human behavior
+Sources
+Historical Evidence
+Psychological Framework
+Literary Reconstruction
+Interpretive Notes
+Limitations
 ```
+
+This structure is intended to make the project increasingly transparent as the collection grows.
 
 ---
 
-# From the Past to the Present
+# 15. Repository Structure
 
-Although the stories are set in distant times, the underlying questions are contemporary.
+A possible repository structure is:
 
-Why do people remain in relationships they know are hurting them?
+```text
+voices-from-history/
+│
+├── README.md
+│
+├── history/
+│   ├── ancient-china/
+│   ├── imperial-china/
+│   ├── modern-history/
+│   └── world-history/
+│
+├── literature/
+│   ├── dream-of-the-red-chamber/
+│   ├── jin-yong/
+│   ├── classical-literature/
+│   └── world-literature/
+│
+├── myth-and-legend/
+│   ├── chinese-mythology/
+│   ├── journey-to-the-west/
+│   └── cross-cultural/
+│
+├── psychology/
+│   ├── attachment/
+│   ├── identity/
+│   ├── power/
+│   ├── trauma/
+│   ├── decision-making/
+│   └── human-behavior/
+│
+├── sources/
+│
+└── notes/
+```
+
+The directory structure may evolve as the project develops.
+
+---
+
+# 16. Content Categories
+
+The repository currently spans three major narrative domains:
+
+### History
+
+Historical individuals whose lives were shaped by political, social, institutional, or cultural forces.
+
+### Literature
+
+Characters whose inner lives can be reconsidered beyond conventional literary interpretation.
+
+### Myth & Legend
+
+Figures whose stories function as cultural models of rebellion, attachment, transformation, sacrifice, power, and identity.
+
+Across all three domains, psychology provides a common analytical vocabulary.
+
+---
+
+# 17. From the Past to the Present
+
+Although these stories are set in distant worlds, the underlying questions are contemporary.
 
 Why do organizations protect failing decisions?
 
 Why do intelligent people rationalize irrational behavior?
 
-Why do people sacrifice themselves for identities they did not choose?
+Why do people remain loyal to systems that no longer serve them?
 
-Why does power change the perception of reality?
+Why does power distort information?
+
+Why do people confuse identity with destiny?
+
+Why do institutions become dependent on individuals?
 
 Why do people sometimes prefer a familiar failure to an uncertain possibility?
+
+Why can knowledge become more valuable than possession?
+
+Why do some ideas continue to influence the world long after their creators disappear?
 
 History provides the characters.
 
 Psychology provides the questions.
 
+Evidence provides the constraints.
+
 Narrative provides the perspective.
 
 ---
 
-# Disclaimer
-
-This repository contains a mixture of **historical interpretation, literary analysis, psychological interpretation, and creative first-person reconstruction**.
-
-Unless explicitly identified as a historical quotation or documented source, first-person thoughts, dialogue, diary entries, and internal monologues should be understood as **fictional reconstructions**.
-
-Psychological terminology is used for analytical and literary purposes and should not be interpreted as retrospective clinical diagnosis.
-
-The project does not claim to establish the actual private thoughts of historical or literary figures.
-
----
-
-# Project Philosophy
+# 18. Project Philosophy
 
 > **The past is not only a sequence of events.
 > It is also a collection of human minds trying to make sense of those events.**
@@ -533,32 +826,68 @@ The purpose of *Voices from History* is to listen to those voices.
 
 Not to rewrite history.
 
+Not to manufacture evidence.
+
 Not to excuse historical actions.
+
+Not to turn complex people into heroes or villains.
 
 But to ask one additional question:
 
 > **If we could sit quietly beside them on the last night of their lives, what might they finally be willing to tell us?**
 
+And then, after listening:
+
+> **What can their decisions teach us about ourselves?**
+
 ---
 
-## Status
+# 19. Status
 
 **Project status:** Active
 
-**Format:** First-person historical and literary reconstruction
+**Format:** First-person historical, literary, and mythological reconstruction
 
 **Primary languages:** Chinese / English
 
-**Research perspectives:** History · Literature · Psychology · Cognitive Science · Human Behavior
+**Perspectives:** History · Literature · Psychology · Cognitive Science · Decision Theory · Human Behavior
 
 **Repository:** `voices-from-history`
 
 ---
 
-## Author
+# 20. Author
 
 **Scott Sun**
 
 Independent researcher and writer working across science, information, psychology, history, literature, and interdisciplinary research.
 
-This repository is part of a broader effort to explore how different intellectual frameworks can illuminate the same underlying questions about **human behavior, information, decision-making, and meaning**.
+*Voices from History* is part of a broader effort to explore how different intellectual frameworks can illuminate the same underlying questions about:
+
+**information, perception, decision-making, human behavior, institutions, and meaning.**
+
+---
+
+## Final Note
+
+This project began with a simple curiosity:
+
+> **What if history were allowed to speak in the first person?**
+
+It has gradually become a larger experiment in perspective.
+
+The experiment is not to discover voices that were never recorded.
+
+It is to use carefully constrained imagination to ask better questions about voices that history left behind.
+
+Because sometimes the most useful question about the past is not:
+
+> **"What happened?"**
+
+but:
+
+> **"What did the world look like to the person who made it happen?"**
+
+And after we understand that perspective, we can ask the question that matters most:
+
+> **"Would we have made the same decision?"**
